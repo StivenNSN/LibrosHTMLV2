@@ -350,6 +350,7 @@
 .glightbox-mobile .glightbox-container .gslide-title {
   color: #fff;
   font-size: 1em;
+  background-color: #00000083;
 }
 
 .glightbox-mobile .glightbox-container .gslide-desc {
@@ -506,6 +507,7 @@ iframe.wait-autoplay {
 
 .glightbox-clean .gdesc-inner {
   padding: 22px 20px;
+  background-color: black;
 }
 
 .glightbox-clean .gslide-title {
